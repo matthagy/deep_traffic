@@ -1,0 +1,12 @@
+*.png
+*.csv
+.DS_Store
+.ipynb_checkpoints
+*.pkl
+.is_py_util
+is_py_utils/__pycache__
+data/
+*.dot
+__pycache__/
+node_modules/
+package-lock.json
